@@ -8,7 +8,7 @@ var readState,gameState,sadDog
 function preload()
 {
   dog = loadImage("do.png")
-  happyDog= loadImage("dog.png")
+  happyDog= loadImage("Dog.png")
   bedroomimg = loadImage("Bed Room.png")
   gardenimg =loadImage("Garden.png")
   washroomimg = loadImage("Wash Room.png")
